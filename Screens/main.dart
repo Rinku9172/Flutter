@@ -8,6 +8,7 @@ import 'package:flutter_application_1/Screens/Screen4.dart';
 import 'package:flutter_application_1/Screens/Screen5.dart';
 import 'package:assignments/TextFieldWidget.dart';
 import 'package:assignments/RadioButton.dart';
+import 'package:assignments/SwitchDemo.dart';
 void main() {
   runApp(s1());
 }
